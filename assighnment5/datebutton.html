@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <input type="date" id="givedate">
+
+    <button onclick="showbutton()">Show Date</button>
+
+    <button onclick="factorial()"> Calculate Factorial</button>
+
+
+    <script>
+
+        function showbutton(){
+            var date1=document.getElementById("givedate").value
+    if (date1=="")
+    {
+        alert("Please enter valid date");
+    }
+    else {
+        alert("The Date is :"+date1);
+    }
+        }
+
+        function factorial()
+        {
+            var fact=prompt("Enter a number to calculate factorial");
+            var result=1;
+
+
+            if(fact<0)
+        {
+            alert("please enter valid factorial number");
+        }
+        else {
+           for (var i=1;i<=fact;i++)
+           {
+            result=result*i;
+           }
+           alert("The Factorial is "+result);
+        }
+        }
+    </script>
+</html>
