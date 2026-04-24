@@ -1,0 +1,40 @@
+{
+  "match": {
+    "team1": {
+      "name": "India",
+      "players": [
+        {
+          "name": "Virat Kohli",
+          "runs": 75,
+          "balls": 60  
+        },
+        {
+          "name": "Rohit Sharma",
+          "runs": 50,
+          "balls": 40
+        }
+      ],
+      "total": 150,
+      "wickets": 3,
+      "overs": 20
+    },
+    "team2": {
+      "name": "Australia",
+      "players": [
+        {
+          "name": "David Warner",
+          "runs": 65,
+          "balls": 55
+        },
+        {
+          "name": "Steve Smith",
+          "runs": 45,
+          "balls": 35
+        }
+      ],
+      "total": 140,
+      "wickets": 5,
+      "overs": 20
+    }
+  }
+}

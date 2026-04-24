@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match>
+    <team>
+        <name>India</name>
+        <player>
+            <name>Virat Kohli</name>
+            <runs>75</runs>
+            <balls>60</balls>
+        </player>
+        <player>
+            <name>Rohit Sharma</name>
+            <runs>50</runs>
+            <balls>40</balls>
+        </player>
+        <total>150</total>
+        <wickets>3</wickets>
+        <overs>20</overs>
+    </team>
+
+    <team>
+        <name>Australia</name>
+        <player>
+            <name>David Warner</name>
+            <runs>65</runs>
+            <balls>55</balls>
+        </player>
+        <player>
+            <name>Steve Smith</name>
+            <runs>45</runs>
+            <balls>35</balls>
+        </player>
+        <total>140</total>
+        <wickets>5</wickets>
+        <overs>20</overs>
+    </team>
+</match>

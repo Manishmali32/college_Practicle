@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+ <book>
+  <title> Introduction to XML </title>
+  <author>Ravi Shastri</author>
+  <isbn>978-1234567890</isbn>
+  <publisher>ABC publication</publisher>
+  <edition>2nd</edition>
+  <price>560</price>
+  </book>
+
+   <book>
+        <title>Web Technologies</title>
+        <author>Mary Johnson</author>
+        <isbn>978-0987654321</isbn>
+        <publisher>XYZ Publishers</publisher>
+        <edition>3rd</edition>
+        <price>550</price>
+    </book>
+    </library>
